@@ -5,4 +5,5 @@ int main()
 {
 	cout<<"Hello World"<<endl;
 	cout<<"New"<<endl;
+	cout<<"NEW 1"<<endl;
 }
