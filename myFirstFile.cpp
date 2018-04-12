@@ -7,4 +7,5 @@ int main()
 	cout<<"New"<<endl;
 	cout<<"NEW 1"<<endl;
 	cout<<"Never"<<endl;
+	cout<<"There"<<endl;
 }
